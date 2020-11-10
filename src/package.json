@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "antd-icons": "0.0.3-alpha.4",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": ""
+}
